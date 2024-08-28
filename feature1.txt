@@ -1,1 +1,2 @@
 Ceci est le 1er contenu du feature.txt 
+La modification de feature1.txt sur feature1
