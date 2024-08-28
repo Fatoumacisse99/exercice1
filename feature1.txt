@@ -1,1 +1,2 @@
 Ceci est le 1er contenu du feature.txt 
+Modification de feature1.txt SUR la branch feature2
